@@ -1,0 +1,9 @@
+{
+  "ignore": [
+    "node_modules/**",
+    "coverage/**",
+    "jscpd-report/**",
+    "package-lock.json",
+    "*.md"
+  ]
+}
