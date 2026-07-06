@@ -3,6 +3,7 @@
 [![coverage badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fdemo.coveragetracker.dev%2Fapi%2Fbadge%2FCoverageTracker%2Fexample-typescript%2Fcoverage.json)](https://demo.coveragetracker.dev/CoverageTracker/example-typescript?metric=coverage)
 [![complexity badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fdemo.coveragetracker.dev%2Fapi%2Fbadge%2FCoverageTracker%2Fexample-typescript%2Fcomplexity.json)](https://demo.coveragetracker.dev/CoverageTracker/example-typescript?metric=complexity)
 [![duplication badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fdemo.coveragetracker.dev%2Fapi%2Fbadge%2FCoverageTracker%2Fexample-typescript%2Fduplication.json)](https://demo.coveragetracker.dev/CoverageTracker/example-typescript?metric=duplication)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FCoverageTracker%2Fexample-typescript.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FCoverageTracker%2Fexample-typescript?ref=badge_shield)
 
 A small, idiomatic TypeScript invoicing/cart library used as the JS/TS
 reference example for [Coverage Tracker](https://coveragetracker.dev). It
@@ -33,3 +34,7 @@ itself.**
 npm ci
 npm run coverage   # writes coverage/lcov.info
 ```
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FCoverageTracker%2Fexample-typescript.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FCoverageTracker%2Fexample-typescript?ref=badge_large)
